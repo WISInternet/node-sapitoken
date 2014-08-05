@@ -1,0 +1,30 @@
+{
+  "name": "node-sapitoken",
+  "version": "0.0.1",
+  "description": "Node.js SoftLayer API service account authorization",
+  "main": "sapitoken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WISInternet/node-sapitoken.git"
+  },
+  "keywords": [
+    "jwt",
+    "jws",
+    "softlayer",
+    "api",
+    "token",
+    "service"
+  ],
+  "author": "Chieh-Wen Yang",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/WISInternet/node-sapitoken/issues"
+  },
+  "homepage": "https://github.com/WISInternet/node-sapitoken",
+  "dependencies": {
+    "jws": "^0.2.5"
+  }
+}
